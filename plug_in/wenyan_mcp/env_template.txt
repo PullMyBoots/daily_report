@@ -1,0 +1,10 @@
+# 微信公众号配置模板
+# 复制此文件内容创建 .env 文件
+
+# 从微信公众号平台获取：设置与开发 -> 开发接口管理
+WECHAT_APP_ID=your_app_id_here
+WECHAT_APP_SECRET=your_app_secret_here
+
+# 本地图片路径（可选，Docker方式需要）
+HOST_IMAGE_PATH=/Users/dushiliren/Desktop/Self-Media/personal_growth/get_text_vocal
+

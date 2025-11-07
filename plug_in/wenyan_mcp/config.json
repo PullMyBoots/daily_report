@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "wenyan-mcp": {
+      "name": "公众号助手",
+      "command": "npx",
+      "args": [
+        "@wenyan-md/mcp"
+      ],
+      "env": {
+        "WECHAT_APP_ID": "wxcce79ce3dac424f8",
+        "WECHAT_APP_SECRET": "6b7e108e47327cb8bac4c68dd400d074"
+      }
+    }
+  }
+}
+
