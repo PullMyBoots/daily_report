@@ -1,0 +1,1 @@
+# Daily Front Investment\n\nThis is a sample README file in markdown format.
